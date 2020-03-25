@@ -1,0 +1,14 @@
+class: Bag
+
+attributes:
+material (string)
+strap (boolean)
+compartment (integer)
+capacity (float)
+
+methods :
+
+desginResource (adds "plastic" into the material resources)
+takeToGym (removes one strap from the bag)
+openMainComparment (exposes 3 extra compartments to the bag)
+unfoldExtra (adds 10 to total capacity)

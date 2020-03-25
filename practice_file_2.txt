@@ -1,0 +1,13 @@
+Laptop bag
+
+material: ["leather", "fabric", "rubber"]
+strap: 2
+compartment:  3
+capacity: 20
+
+
+
+desginResource: material: ["leather", "fabric", "rubber", "plastic"]
+takeToGym :strap: 1
+openMainComparment: compartment:  6
+unfoldExtra:capacity: 30
